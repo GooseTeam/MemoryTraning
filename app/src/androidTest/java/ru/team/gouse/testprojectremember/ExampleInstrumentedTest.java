@@ -1,4 +1,4 @@
-package ru.arturolshauskis.yyiyyi;
+package ru.team.gouse.testprojectremember;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ru.arturolshauskis.yyiyyi", appContext.getPackageName());
+        assertEquals("ru.team.gouse.testprojectremember", appContext.getPackageName());
     }
 }

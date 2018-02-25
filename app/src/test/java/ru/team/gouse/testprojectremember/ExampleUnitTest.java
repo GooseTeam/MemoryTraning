@@ -1,4 +1,4 @@
-package ru.arturolshauskis.yyiyyi;
+package ru.team.gouse.testprojectremember;
 
 import org.junit.Test;
 
