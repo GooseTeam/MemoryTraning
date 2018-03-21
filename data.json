@@ -1,0 +1,129 @@
+{
+  "levels" : {
+    "level_1" : {
+      "images" : {
+        "picture_one" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/1lvl%2F109c2cbe5bfbeb32a48fad5a550b24c6.jpg?alt=media&token=9519b24e-e337-41a3-b1c5-683b570a077d",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/1lvl/109c2cbe5bfbeb32a48fad5a550b24c6.jpg"
+        },
+        "picture_three" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/1lvl%2FSkachat-krasivye-kartinki-i-foto-na-telefon-priroda-pejzazhi-3.jpg?alt=media&token=fc7e41e4-2481-437c-ad54-b70b4de28612",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/1lvl/Skachat-krasivye-kartinki-i-foto-na-telefon-priroda-pejzazhi-3.jpg"
+        },
+        "picture_two" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/1lvl%2Fosen_osennyaya_priroda_36_glavnaja.jpg?alt=media&token=9c851115-a80f-4095-bf19-e380c8df16ea",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/1lvl/osen_osennyaya_priroda_36_glavnaja.jpg"
+        }
+      },
+      "timer" : 5000
+    },
+    "level_2" : {
+      "images" : {
+        "picture_four" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/2lvl%2FNathanSpottslandscape10.jpg?alt=media&token=78a27b93-c943-4f28-bd4e-e28f311417d7",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/2lvl/NathanSpottslandscape10.jpg"
+        },
+        "picture_one" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/2lvl%2F4548249_3462a31b.jpg?alt=media&token=98c74573-c9e1-4393-ba1c-097a821f677e",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/2lvl/4548249_3462a31b.jpg"
+        },
+        "picture_three" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/2lvl%2Fhqdefault.jpg?alt=media&token=59ecf815-d1c8-4689-ad4d-5fd8f6015c5c",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/2lvl/hqdefault.jpg"
+        },
+        "picture_two" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/2lvl%2Fadca5ccd4b9eaf29b2a8305e46e8cb732a4d7eb0.jpg?alt=media&token=d7f96325-ea67-491b-81a1-d0eb7378de31",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/2lvl/adca5ccd4b9eaf29b2a8305e46e8cb732a4d7eb0.jpg"
+        }
+      },
+      "timer" : 4500
+    },
+    "level_3" : {
+      "images" : {
+        "picture_five" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/3lvl%2Fmonkey1.jpg?alt=media&token=cddc9ed8-84a3-4ce9-be2c-19b81798afef",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/3lvl/monkey1.jpg"
+        },
+        "picture_four" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/3lvl%2Flunx.jpg?alt=media&token=da2b3a72-a184-4cac-9f06-566f13f670e2",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/3lvl/lunx.jpg"
+        },
+        "picture_one" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/3lvl%2F1.jpg?alt=media&token=c71a64d1-d8ca-4ae5-960f-d6c6ae7889c3",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/3lvl/1.jpg"
+        },
+        "picture_three" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/3lvl%2Fimages.jpg?alt=media&token=4c1c341a-b5fd-40f8-a545-d8f3272796ed",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/3lvl/images.jpg"
+        },
+        "picture_two" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/3lvl%2F38763676_303.jpg?alt=media&token=4a7516d3-d062-4b74-bb08-d573483b3ec9",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/3lvl/38763676_303.jpg"
+        }
+      },
+      "timer" : 4000
+    },
+    "level_4" : {
+      "images" : {
+        "picture_five" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/4lvl%2Figra_kapyushon_luk_The_Elder_Scrolls_32347.jpg?alt=media&token=f5017088-c9eb-4cfa-8497-35d7f3e28a92",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/4lvl/igra_kapyushon_luk_The_Elder_Scrolls_32347.jpg"
+        },
+        "picture_four" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/4lvl%2Fgenres.jpg?alt=media&token=a9db1fe3-a0c0-4573-9d54-3103242e25b8",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/4lvl/genres.jpg"
+        },
+        "picture_one" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/4lvl%2F93241.jpg?alt=media&token=d48a931b-a957-4d8f-ba30-87dd700dde88",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/4lvl/93241.jpg"
+        },
+        "picture_six" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/4lvl%2Fnew-assassins-creed-origins-660x400.jpg?alt=media&token=d8d0ccec-1560-49fa-918e-187c4d66f595",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/4lvl/new-assassins-creed-origins-660x400.jpg"
+        },
+        "picture_three" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/4lvl%2Fdetail_397ee37a8e2b0622dfc48c74b5deba5d.jpg?alt=media&token=6080a38f-27c8-4daa-942a-197b744d908e",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/4lvl/detail_397ee37a8e2b0622dfc48c74b5deba5d.jpg"
+        },
+        "picture_two" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/4lvl%2FbyksL20-Ulg.jpg?alt=media&token=4d60130d-a885-4f39-81f6-081ace786894",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/4lvl/byksL20-Ulg.jpg"
+        }
+      },
+      "timer" : 3800
+    },
+    "level_5" : {
+      "images" : {
+        "picture_five" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2Fkak_narisovat_anime_devushku_karandashom_poetapno.jpg?alt=media&token=557549a4-4efa-446b-aeaf-91e369b51bf0",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/kak_narisovat_anime_devushku_karandashom_poetapno.jpg"
+        },
+        "picture_four" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2Ff01bf2ac6c2960baaed5058aa7121927--hair-anime.jpg?alt=media&token=82204775-1a89-4a37-b42f-845d9622ff8f",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/f01bf2ac6c2960baaed5058aa7121927--hair-anime.jpg"
+        },
+        "picture_one" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2F30834a9c2966d420d20d5e9bacf042c0-pastel-pink-pink-purple-1.jpg?alt=media&token=b69729af-3eae-489d-ae36-e271964b1adb",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/30834a9c2966d420d20d5e9bacf042c0-pastel-pink-pink-purple-1.jpg"
+        },
+        "picture_seven" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2Ftmb_196719_2079.jpg?alt=media&token=bd16297c-fcba-4a5c-8f39-35194f42a994",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/tmb_196719_2079.jpg"
+        },
+        "picture_six" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2Fsword-art-online-kirio-art-anime-mastera-mecha-onlain.jpg?alt=media&token=2abd2a57-1100-40ff-8a1a-6475f0e22a67",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/sword-art-online-kirio-art-anime-mastera-mecha-onlain.jpg"
+        },
+        "picture_three" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2Fanime.jpg?alt=media&token=29309608-424f-4e7d-b22f-5e3eddc04d5b",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/anime.jpg"
+        },
+        "picture_two" : {
+          "main_url" : "https://firebasestorage.googleapis.com/v0/b/faceremember-fe128.appspot.com/o/5lvl%2FAnime-kartinki-dlja-srisovki-6.jpg?alt=media&token=deda4262-af0f-42b4-9cdd-f6fc1f85bf2d",
+          "storage_url" : "gs://faceremember-fe128.appspot.com/5lvl/Anime-kartinki-dlja-srisovki-6.jpg"
+        }
+      },
+      "timer" : 3300
+    }
+  }
+}
